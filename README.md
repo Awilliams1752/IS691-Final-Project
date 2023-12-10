@@ -67,4 +67,6 @@ The system is not compliant as /var/log/syslog is not owned by syslog
 Would you like to configure /var/log/syslog? Type y/n: n
 The system is still not compliant while /var/log/syslog is not configured
 
-Looking at these examples, the user has to type y for yes to fix the compliance. When doing so, the process of these operations will show on the command line However, if the user press n, no, or any other input, the the compliance will fail and not continue it is not protected from the vulnerabilities. With all of this said, it would make the system more vulnerable when typing any response besides y to fix this compliance to make it more protected.91-Final-Project
+Looking at these examples, the user has to type y for yes to fix the compliance. When doing so, the process of these operations will show on the command line
+However, if the user press n, no, or any other input, the the compliance will fail and not continue it is not protected from the vulnerabilities.
+With all of this said, it would make the system more vulnerable when typing any response besides y to fix this compliance to make it more protected.
